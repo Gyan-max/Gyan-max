@@ -1,5 +1,5 @@
-### Hi there 👋
-  My Self # Gyan.
+# Hi there 👋
+# My Self ###Gyan.
   
   I'm a CS undergrad at IIT Patna
 
