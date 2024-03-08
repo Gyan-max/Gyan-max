@@ -3,7 +3,7 @@
 <h3 align="center">I'm a CS Undergrad at IIT Patna</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gyan-max&label=Profile%20views&color=0e75b6&style=flat" alt="gyan-max" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gyan-max&theme=" alt="gyan-max" /></a> </p>
+
 
 - 🤝 I’m looking for help with [AI Virtual Mouse Controller with in-build Voice Assistant](https://github.com/Gyan-max/AI-Virtual-mouse-controller-with-Inbuild-Voice-Assistant)
 - 🌱 I’m currently learning **Reacts JS**
