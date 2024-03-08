@@ -2,8 +2,7 @@
 <h1 align="center">Hi 👋, My Self Gyan</h1>
 <h3 align="center">I'm a CS Undergrad at IIT Patna</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gyan-max&label=Profile%20views&color=0e75b6&style=flat" alt="gyan-max" /> </p>
-<div style="padding-top:156.383%;position:relative;"><iframe src="https://gifer.com/embed/5TMy" width="100%" height="100%" style='position:absolute;top:0;left:0;' frameBorder="0" allowFullScreen></iframe></div><p><a href="https://gifer.com">via GIFER</a></p>
-
+<img src="https://i.gifer.com/5TMy.gif"/>
 
 - 🤝 I’m looking for help with [AI Virtual Mouse Controller with in-build Voice Assistant](https://github.com/Gyan-max/AI-Virtual-mouse-controller-with-Inbuild-Voice-Assistant)
 - 🌱 I’m currently learning **Reacts JS**
