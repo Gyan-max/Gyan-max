@@ -1,4 +1,4 @@
-<img src="https://img.freepik.com/free-photo/cool-gaming-setup-inside-still-life_23-2149829152.jpg" width="50%" />
+<img src="https://www.shutterstock.com/image-vector/concept-computer-programming-developing-software-game-2212714925" width="50%" />
 <h1 align="center">Hi 👋, My Self Gyan</h1>
 <h3 align="center">I'm a CS Undergrad at IIT Patna</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gyan-max&label=Profile%20views&color=0e75b6&style=flat" alt="gyan-max" /> </p>
