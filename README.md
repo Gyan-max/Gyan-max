@@ -7,3 +7,18 @@
 
 </a>
 </picture>
+```js
+"use creativity";
+import { Person } from 'India';
+
+new Person({
+    name   : 'Gyan Ranjan',
+    title  : 'CS Undergrad at IIT Patna',
+    email  : 'gyanranjan4427@gmail.com'
+
+}).introduce();
+
+```cmd
+D:\Gyan- Ranjan> node index.js
+Hi, my name is Gyan Ranjan, I'm a Passionate Web Developer from India.
+```
