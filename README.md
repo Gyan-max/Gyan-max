@@ -1,94 +1,58 @@
-<!--x axis divider-->
-<img src="/assets/images/horizontal-divider-gradient.gif">
+<br clear="both">
 
-<picture> 
-<a href="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Developer">
-<img src="/assets//images/developer.webp" align="right" width="350">
-</a>
-</picture>
+<h3 align="center">Hi 👋! My Self Gyan and I'm a CS Undergrad at IIT Patna<br>I'm from India.</h3>
 
-```js
-"use creativity";
-import { Person } from 'india';
+###
 
-new Person({
-    name   : 'Gyan Ranjan',
-    title  : 'CS Undergrad at IIT Patna',
-    email  : 'gyanranjan4427@gmail.com',
-    married: !!!Single,
-}).introduce();
-```
-
-```cmd
-D:\Gyan-Ranjan> node index.js
-Hi, my name is Gyan Ranjan, I'm a Passionate Web Developer from India.
-```
-
-<!--x axis divider-->
-<img src="/assets/images/horizontal-divider-gradient.gif">
-
-<!--h1 without bottom border-->
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h3 style="display: inline-block">🔍Tech that's been explored🔎</h3></summary>
-  </ul>
-</div>
-<!--tech stack icons-->
-<p align="center">
-<a href="https://skillicons.dev">
-<img src="https://skillicons.dev/icons?i=html,css,js,c,java,py,,react,nextjs,vue,nuxt,nodejs,mongodb,linux,git,github,vscode,figma,line=11" />
-</a>
-</p>
-
-<!--x axis divider-->
-<img src="/assets/images/horizontal-divider-gradient.gif">
-
-<h3 align="center">🔥Streak Stats🔥</h3>
-
-<!-- custom streak stats: https://git.io/streak-stats -->
-<p align="center"><img src="https://streak-stats.demolab.com?user=Deri-Kurniawan&hide_border=true&type=png" alt="Deri-Kurniawan" /></p>
-
-<!--x axis divider-->
-<img src="/assets/images/horizontal-divider-gradient.gif">
-
-
-
-<!--x axis divider-->
-<img src="/assets/images/horizontal-divider-gradient.gif">
-
-<!-- Connect with me -->
-<h3 align="center">🤝Connect with Me🤝</h3>
-<div align="center">
-
-[![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://bitlie.deri.my.id/linkedin)
-[![image](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://bitlie.deri.my.id/instagram)
-[![image](https://img.shields.io/badge/Dribble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white)](https://bitlie.deri.my.id/dribbble)
-[![image](https://img.shields.io/badge/Stack%20Overflow-EF8236?style=for-the-badge&logo=stackoverflow&logoColor=white)](https://bitlie.deri.my.id/stackoverflow)
-[![image](https://img.shields.io/badge/UIverse-04A4FB?style=for-the-badge&logo=brave&logoColor=white)](https://bitlie.deri.my.id/uiverse)
-  
+<div align="right">
+  <img src="https://profile-counter.glitch.me/gyan-max/count.svg?"  />
 </div>
 
-<!--x axis divider-->
-<img src="/assets/images/horizontal-divider-gradient.gif">
+###
 
-<!-- Support me -->
-<h3 align="center">☕Support Me☕</h3>
-
-<div align="center">
-  
-[![image](https://img.shields.io/badge/Buy%20me%20a%20coffee-FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=white)](https://bitlie.deri.my.id/buymeacoffee) [![image](https://img.shields.io/badge/ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://bitlie.deri.my.id/ko-fi)
-
-<!--x axis divider-->
-<img src="/assets/images/horizontal-divider-gradient.gif">
-
-![Commit Snake History SVG](https://raw.githubusercontent.com/Deri-Kurniawan/Deri-Kurniawan/output/github-snake.svg)
-
-<!--x axis divider-->
-<img src="/assets/images/horizontal-divider-gradient.gif">
-
-<div align="center">
-    Made with ❤️ by Gyan</a>
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
 </div>
 
-<!--x axis divider-->
-<img src="/assets/images/horizontal-divider-gradient.gif">
+###
+
+<div align="left">
+  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
+  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
+  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+</div>
+
+###
+
+<img align="left" height="165" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHU2b3U3YzR0YjU0NThrOXExcXY5bHE5aHY0aThoNW16YW50bHAzbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif"  />
+
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/gyan-max/gyan-max/output/snake.svg" alt="Snake animation" />
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=gyan-max&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=gyan-max&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=gruvbox_light&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=gyan-max&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=gyan-max&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
+</div>
+
+###
