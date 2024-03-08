@@ -2,11 +2,11 @@
 <h1 align="center">Hi 👋, My Self Gyan</h1>
 <h3 align="center">I'm a CS Undergrad at IIT Patna</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gyan-max&label=Profile%20views&color=0e75b6&style=flat" alt="gyan-max" /> </p>
-<video src="https://i.gifer.com/5TMy.gif"></video>
+
 
 - 🤝 I’m looking for help with [AI Virtual Mouse Controller with in-build Voice Assistant](https://github.com/Gyan-max/AI-Virtual-mouse-controller-with-Inbuild-Voice-Assistant)
 - 🌱 I’m currently learning **Reacts JS**
-
+<video src="https://i.gifer.com/5TMy.gif" float = "right"></video>
 - 📫 How to reach me **gyanranjan4427@gmail.com**
 
 <div> <a href="https://twitter.com/gya17542" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
