@@ -1,3 +1,22 @@
+
+<svg width="100%" height="100%" viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg" overflow="hidden" >
+<defs>
+  <linearGradient id="linearg" x1="0%" y1="50%" x2="100%" y2="50%"> 
+   <stop offset="0%" style="stop-color:#a6ff00;stop-opacity:1.00"></stop>
+   <stop offset="100%" style="stop-color:#000000;stop-opacity:1.00"></stop> 
+  </linearGradient>
+</defs>
+  <g>
+  <path d="M 50 50 L 250 50 L 150.00000000000003 223.20508075688772" fill="url(#linearg)" transform-origin="50 50" transform="rotate(0, 0, 0)" /><path d="M 50 50 L 250 50 L 150.00000000000003 223.20508075688772" fill="#000000" transform-origin="50 50" transform="rotate(60, 0, 0)" /><path d="M 50 50 L 250 50 L 150.00000000000003 223.20508075688772" fill="url(#linearg)" transform-origin="50 50" transform="rotate(120, 0, 0)" /><path d="M 50 50 L 250 50 L 150.00000000000003 223.20508075688772" fill="#000000" transform-origin="50 50" transform="rotate(180, 0, 0)" /><path d="M 50 50 L 250 50 L 150.00000000000003 223.20508075688772" fill="url(#linearg)" transform-origin="50 50" transform="rotate(240, 0, 0)" /><path d="M 50 50 L 250 50 L 150.00000000000003 223.20508075688772" fill="#000000" transform-origin="50 50" transform="rotate(300, 0, 0)" /><animateTransform
+	attributeName="transform"
+	attributeType="XML"
+	type="rotate"
+	from="0 50 50"
+	to="360 50 50"
+	dur="50s"
+	repeatCount="indefinite" />    
+  </g>
+</svg>
 <img src="https://img.freepik.com/premium-photo/man-streamlining-web-presence-optimizing-search-console-efficient-data-retrieval_971713-927.jpg" width="100%" height = "50%" />
 <h1 align="center">Hi 👋, My Self Gyan</h1>
 <h3 align="center">I'm a CS Undergrad at IIT Patna</h3>
