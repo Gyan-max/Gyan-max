@@ -1,6 +1,5 @@
 
-<img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg"/>
-<!-- <img src="https://img.freepik.com/premium-photo/man-streamlining-web-presence-optimizing-search-console-efficient-data-retrieval_971713-927.jpg" width="100%" height = "50%" /> -->
+ <img src="https://img.freepik.com/premium-photo/man-streamlining-web-presence-optimizing-search-console-efficient-data-retrieval_971713-927.jpg" width="100%" height = "50%" /> 
 <h1 align="center">Hi 👋, My Self Gyan</h1>
 <h3 align="center">I'm a CS Undergrad at IIT Patna</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gyan-max&label=Profile%20views&color=0e75b6&style=flat" alt="gyan-max" /> </p>
