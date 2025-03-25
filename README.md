@@ -4,6 +4,7 @@
 
 
 # 💫 About Me:
+### Hi, I'm Gyan 
 - Undergrad; IIT Patna<br>- Ai and Quantum Computing Enthusiast
 
 
